@@ -33,7 +33,7 @@ This project is part of the final capstone for the **3MTT x Darey.io Training Pr
 ## 🚀 Live Demo
 
 Frontend: [https://moviebox-frontend.vercel.app](https://moviebox-frontend.vercel.app)  
-Backend API: [https://moviebox-backend.onrender.com/api](https://moviebox-backend.onrender.com/api)
+Backend API: [https://moviebox-backend-7dhk.onrender.com/api](https://moviebox-backend-7dhk.onrender.com/api)
 
 ---
 
@@ -55,7 +55,7 @@ npm install
 3. Create .env file:
 
 ```env
-VITE_BACKEND_URL=https://moviebox-backend.onrender.com/api
+VITE_BACKEND_URL=https://moviebox-backend-7dhk.onrender.com/api
 ```
 4. Start the development server:
 
