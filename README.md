@@ -32,7 +32,7 @@ This project is part of the final capstone for the **3MTT x Darey.io Training Pr
 
 ## 🚀 Live Demo
 
-Frontend: [https://moviebox-frontend.vercel.app](https://moviebox-frontend.vercel.app)  
+Frontend: [https://moviebox-frontend-two.vercel.app](https://moviebox-frontend-two.vercel.app)  
 Backend API: [https://moviebox-backend-7dhk.onrender.com/api](https://moviebox-backend-7dhk.onrender.com/api)
 
 ---
