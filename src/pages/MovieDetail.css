@@ -1,0 +1,47 @@
+.lead {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+button[disabled] {
+  opacity: 0.85;
+  cursor: not-allowed;
+}
+
+.review-bubble {
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-left: 4px solid #0d6efd;
+}
+
+.review-bubble strong {
+  font-size: 1rem;
+  color: #0d6efd;
+}
+
+.review-bubble small {
+  font-size: 0.8rem;
+  color: #6c757d;
+}
+
+.card-img-top {
+  aspect-ratio: 2/3;
+  object-fit: cover;
+}
+
+.similar-movie-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
+  transition: all 0.2s ease-in-out;
+}
+
+.tab-pane {
+  opacity: 0;
+  transition: opacity 0.4s ease-in-out;
+}
+
+.tab-pane.active {
+  opacity: 1;
+}
