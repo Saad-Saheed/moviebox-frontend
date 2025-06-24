@@ -1,5 +1,4 @@
 const API_BASE = import.meta.env.VITE_BACKEND_URL;
-const TMDB_API_BASE = import.meta.env.VITE_TMDB_BACKEND_URL;
 
 // Helper function to handle fetch responses
 async function handleResponse(response) {
